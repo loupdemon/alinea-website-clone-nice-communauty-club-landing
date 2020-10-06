@@ -1,0 +1,41 @@
+.navbg{
+    background-color: #BB2CD9;
+}
+
+.nav-btn{
+    background-color: #BB2CD9; /* Green */
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+   min-width: 100px;
+    border-radius: 8px;
+    
+}
+
+.login{
+background-color: #BB2CD9 ;
+border: 2px solid #E8290B;
+}
+
+.login:hover{
+background-color: #E8290B;
+border: 2px solid #E8290B;
+}
+
+.register{
+background-color: #E8290B;
+border: 2px solid #E8290B;
+}
+
+.brandlogo{
+    
+        width: 30vh;
+        height: auto;
+      
+}

@@ -1,0 +1,43 @@
+.contact-us{
+    background-color: #BB2CD9;
+}
+
+.herocard{
+    border-radius: 40px;
+    
+    width: 30vw;
+    text-align: center;
+    height: 10vh;
+   
+   
+}
+
+.inputemail{
+    border: none;
+    border-collapse: collapse;
+    width: 20vw;
+}
+
+.inputemail:focus, input:focus{
+    outline: none;
+}
+
+.cardbtn{
+    background-color: black;
+    padding:10px 40px;
+    background-color: #BB2CD9;
+	font-family:Arial;
+    font-size:15px;
+    font-weight: bold;
+    border-radius: 20px;
+    
+}
+
+.cardbtn{
+    box-shadow: none!important;
+}
+
+.cardbtn:active, .cardbtn:focus, .cardbtn:hover{
+    border: none!important;
+    background-color: #BB2CD9;
+}

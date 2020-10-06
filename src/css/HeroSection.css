@@ -1,0 +1,71 @@
+.hero-bg{
+    background-color: #BB2CD9;
+}
+
+.phone1{
+ height: 95%;
+ width: 85%;
+ padding-top: 60px;
+ padding-left: 40px;
+}
+
+.typical{
+    font-weight: bold;
+}
+
+h1.slogan-1{
+  font-family: "Lucida Console", Monaco, monospace;
+  margin-top: 120px;
+  font-size: 2.8em;
+  padding-left: 10px;
+}
+
+h4.slogan-2{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 2em;
+}
+
+h6.slogan-3{
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.1rem;
+}
+
+.btn-journey{
+    background-color: white; 
+    border: none;
+    color: #BB2CD9;
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+   min-width: 100px;
+    border-radius: 30px;
+    font-weight: 600;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+
+.btn-journey:hover{
+    background-color: #BB2CD9; 
+    border: 1px solid white;
+    color: white;
+}
+
+.btn-jr:hover{
+    color: white;
+}
+
+.appstore{
+    height: 11%;
+    width: 26%;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+}

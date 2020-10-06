@@ -1,0 +1,27 @@
+.emoji{
+    font-size: 6rem ;
+  
+}
+
+.my-card{
+    border-radius: 20px;
+    min-height: 400px;
+    background-color: #eaf4fc;
+    box-shadow: 0px 0px 20px 6px #eaf4fc;
+    border: none;
+    text-align: center;
+}
+
+.my-card:hover{
+ 
+    transform: translateY(-5px) scale(1.005) translateZ(0);
+    box-shadow: 2px 4px 20px 14px #eaf4fc;
+
+}
+
+.card-content{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 0.9em;
+    color: #01CBC6;
+}
